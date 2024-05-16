@@ -174,6 +174,7 @@ Tags: 	agency, Business Agency, Business Consultant, business optimization, comp
     padding: 36px 0;
     text-decoration: none;
     display: inline-block;
+    margin-left: 20px;
 }
 
 .header-menu ul li a:hover {
@@ -786,7 +787,7 @@ video.video-background {
  <-- Lifesafe About Area Css-->
 ===================================================*/
 .about-area {
-    padding: 0 0 120px;
+    padding: 0 0 45px;
 }
 
 /* about section title */
@@ -891,7 +892,7 @@ ul.tabs {
 
 .service-area {
     background: #f5fdff;
-    padding: 120px 0 150px;
+    padding: 20px 0 150px;
 }
 
 .service-single-box {
@@ -971,6 +972,7 @@ ul.tabs {
     background-color: #ffffff;
     border: 1px solid #ececec;
     padding: 55px 40px 0;
+    height: 280px;
 }
 
 .service-content h4 a {
@@ -988,7 +990,7 @@ ul.tabs {
 
 .service-content p {
     font-size: 16px;
-    line-height: 24px;
+    line-height: normal;
     color: #505050;
     font-weight: 400;
     margin: 20px 0 55px;
@@ -1059,7 +1061,7 @@ ul.tabs {
 ===================================================*/
 
 .choose-us-area {
-    padding: 120px 0 120px;
+    padding: 50px 0 50px;
 }
 
 .choose-discription p {
@@ -5462,6 +5464,7 @@ span.flaticon-multiply i {
       padding: 20px;
       position: relative;
     margin-bottom:30px;
+    height: 350px;
   
   }
   .services-block-three>a:before {
@@ -5526,8 +5529,8 @@ span.flaticon-multiply i {
   }
 
   #infoicons{
-  padding-top: 140px; 
-  padding-bottom: 140px;
+  padding-top: 60px; 
+  padding-bottom: 60px;
     background-color: #f5fdff;
   }
 
@@ -5648,12 +5651,12 @@ span.flaticon-multiply i {
 }
 
 #logoslider{
-padding-top: 50px;
-padding-bottom: 50px;
+padding-top: 30px;
+padding-bottom: 25px;
 background-color: #fafafa;
 }
 
 #logoslider h2{
    font-size: 2.5rem;
-   margin-bottom: 40px;
+   margin-bottom: 20px;
     }
