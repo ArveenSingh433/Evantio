@@ -27,7 +27,7 @@
     /* protection area */
 
     .protection-content h4 {
-        font-size: 36px;
+        font-size: 30px;
     }
 
     /* choose us area */
@@ -250,7 +250,7 @@
     /* service area */
 
     .service-content {
-        padding: 55px 30px 0;
+        padding: 55px 30px 40px;
     }
 
     /* protection area */
@@ -2966,14 +2966,15 @@
     }
 
     .mobile-logo a img {
-        width: 56%;
+        width: %;
+        height: 20%;
     }
 
     .sidebar-menu {
         display: inherit;
     }
 
-    /* topbar */
+    /* topbar 
 
     .topbar-area {
         display: none;
@@ -2988,7 +2989,7 @@
     /* banner section */
 
     .banner-carousel .slide-item .image-layer {
-        background-position: inherit;
+        /*  background-position: inherit;*/
     }
 
     .slider-content {
@@ -2997,12 +2998,13 @@
     }
 
     .slider-main-title h1 {
-        font-size: 38px;
+        font-size: 62px;
         line-height: 52px;
     }
 
     .slider-discription p {
-        width: 100%;
+      /*  width: 100%;*/
+        font-size: 22px;
     }
 
     .Lifesafe-btn a {
@@ -3068,7 +3070,8 @@
     }
 
     .service-content {
-        padding: 55px 24px 0;
+        padding: 55px 24px 20px;
+        height: 100%;
     }
 
     /* projtection area */
@@ -3508,7 +3511,7 @@
     /* team area */
 
     .team-area {
-        padding: 66px 0 148px;
+        padding: 0 0 148px;
     }
 
     .team-single-box.inner {
